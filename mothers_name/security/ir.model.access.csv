@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_mothers_name_mothers_name,mothers_name.mothers_name,model_mothers_name_mothers_name,base.group_user,1,1,1,1
